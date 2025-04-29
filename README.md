@@ -1,5 +1,71 @@
 # TaskbarXI
 An application written in C++ to modify the Windows 11 Taskbar. Current version turns the Windows 11 Taskbar into a dock. New features will be added in the future.  
+
+<h1 align="center">🪟 Windows 11 Mac Look-Alike Taskbar - Free</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/100%25-Free-brightgreen" />
+  <img src="https://img.shields.io/badge/Built%20with-%E2%9D%A4-red" />
+  <img src="https://img.shields.io/badge/Inspired%20by-TaskbarXI-blue" />
+  <img src="https://img.shields.io/github/stars/shariquetelco/windows11-mac-look-alike-taskbar-free?style=social" />
+  <img src="https://img.shields.io/github/license/shariquetelco/windows11-mac-look-alike-taskbar-free" />
+</p>
+
+---
+
+## 🧭 Overview
+
+**Windows11-Mac Look-Alike Taskbar - Free** is a minimal tool that transforms your Windows 11 taskbar into a macOS-style floating dock — sleek, clean, and elegant.
+
+🎉 Completely free and open-source. No ads. No telemetry.
+
+---
+
+## 📥 DOWNLOAD and SETUP
+
+Download the latest version from the [**Releases**](https://github.com/shariquetelco/windows11-mac-look-alike-taskbar-free/releases) page.
+
+> Original binary is from [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI/releases)
+
+---
+
+## ✨ Features
+
+- 🖥️ Creates a floating, centered taskbar like macOS
+- 🧼 No UI — lightweight and distraction-free
+- 🔄 Auto-adjusts based on screen resolution
+- 💻 Minimal resource usage
+
+---
+
+## 🛠 Installation
+
+1. 📦 Download the latest `.exe` from [Releases](https://github.com/shariquetelco/windows11-mac-look-alike-taskbar-free/releases).
+2. 🖱️ Double-click to launch — no installation needed.
+3. ⚙️ Customize using a config file (optional).
+
+---
+
+## 🧑‍💻 Credit
+
+Huge thanks for the work and inspiration 🙌
+1. [TaskbarXI](https://github.com/ChrisAnd1998/TaskbarXI)
+2. [PrincessAkira](https://github.com/PrincessAkira)
+3. [dmitryaleshin](https://github.com/dmitryaleshin)
+
+
+
+---
+
+## 📝 License
+
+See the [`LICENSE`](LICENSE) file for details. This project follows the same license as the original.
+
+---
+
+> 💡 Tip: Combine with custom themes for a full macOS feel on Windows 11!
+
+
 ![TaskbarXI](https://user-images.githubusercontent.com/50437199/148023157-7d2c8a9d-cd82-499c-9a98-52d53625296a.png)
 
 
@@ -46,19 +112,3 @@ If you still want to change properties with console, here are Parameters:
 
   
 **CMD Example:** `"TaskbarXI.exe" -ignoremax -expandspeed 100 -square`  
-
-
-
-&nbsp;
-
-**Thanks to: ❤️**  
-[@PrincessAkira](https://github.com/PrincessAkira)  
-[@dmitryaleshin](https://github.com/dmitryaleshin)  
-[@officialLennox](https://github.com/officialLennox)  
-
-&nbsp;
-
-**Screenshots**
-<img width="1920" alt="Untitled" src="https://user-images.githubusercontent.com/50437199/147857018-9de30327-9f5c-48c6-ab52-9ed7afefb070.png">
-<img width="1920" alt="Untitled" src="https://user-images.githubusercontent.com/50437199/147869295-0736389b-95cd-4875-9ab0-cdce03df22b7.jpg">
-<img width="1920" alt="Untitled" src="https://user-images.githubusercontent.com/50437199/147869297-a07983cd-02cc-4d28-a40b-066064d2f210.jpg">
